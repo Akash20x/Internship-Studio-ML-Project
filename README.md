@@ -1,7 +1,7 @@
 # YouTube Adview Prediction
 Machine Learning Project under Guidance of Internship Studio
 
-![Internship-Studio](https://user-images.githubusercontent.com/46225357/124817544-934fed80-df87-11eb-814f-2192f7df4b4c.jpeg)
+<img src="https://user-images.githubusercontent.com/46225357/124817544-934fed80-df87-11eb-814f-2192f7df4b4c.jpeg" alt="alt text" height="500">
 
 # Data Description
 
