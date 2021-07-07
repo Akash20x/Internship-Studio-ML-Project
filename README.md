@@ -1,6 +1,8 @@
 # YouTube Adview Prediction
 Machine Learning Project under Guidance of Internship Studio
 
+![Internship-Studio](https://user-images.githubusercontent.com/46225357/124817544-934fed80-df87-11eb-814f-2192f7df4b4c.jpeg)
+
 # Data Description
 
 The file train.csv contains metrics and other details of about 15000 youtube
